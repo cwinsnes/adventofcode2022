@@ -1,4 +1,3 @@
-from math import ceil
 from typing import Iterable
 from string import ascii_letters
 
